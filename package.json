@@ -1,0 +1,22 @@
+{
+  "name": "excelpsh",
+  "version": "1.0.0",
+  "description": "excel output and create",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "worksheet",
+    "nodejs",
+    "excel"
+  ],
+  "author": "pamanbob",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "express": "^4.17.1",
+    "ipware": "^2.0.0"
+  }
+}
